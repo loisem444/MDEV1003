@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/StarterContent/Materials/M_Rock_Slate.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/91/MDW7K1KFYB85P1OR0SRBBH.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/FPWeapon/Audio/bubblepop.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/Surface.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/LevelPrototyping/Materials/M_Solid.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/GM/296L7MJ60YHKQXMG9SKB0G.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/Custom/GCLogoFull.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/Custom/GCLogoFull_Mat.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/Custom/Decal.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/EZ/TB9CV3SGJFU3PSNIPZ8RF0.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/Custom/GCLogoTransparent.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/PC/UPQ21GNQQQ8QAN15QR1C7Z.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/Custom/Barrel.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/Custom/YellowCan.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/Custom/metalLid.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/Custom/cartoon-splat-6086.uasset",
+				"/home/loise/Documents/Unreal Projects/Loise_MDEV1003/Content/FPWeapon/Audio/cartoon-splat-6086.uasset"
+			]
+		}
+	]
+}
